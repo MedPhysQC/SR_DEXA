@@ -1,0 +1,16 @@
+{
+    "info": {
+        "dbversion": "20180209",
+        "magic": "wad-qc-factory",
+        "wadqcversion": "2.0.33"
+    },
+    "module": {
+        "description": "SR DEXA",
+        "executable": "QCSR_wadwrapper.py",
+        "name": "SR_DEXA",
+        "code": "python",
+        "dependencies": [
+            "pydicom",
+        ]
+    }
+}

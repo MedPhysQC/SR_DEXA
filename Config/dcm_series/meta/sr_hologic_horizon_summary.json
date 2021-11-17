@@ -1,0 +1,125 @@
+{
+    "comments": {
+        "author": "Arnold Schilham, UMCU",
+        "creator": "generate_config_json.py version 20180912",
+        "description": "SR/DEXA for Hologic Horizon"
+    },
+    "metaformat": "20180910",
+    "results": {
+        "AcquisitionDateTime": {
+            "constraint_period": 14,
+            "description": "date and time of acquisition",
+            "display_level": 2,
+            "display_name": "DateTime",
+            "units": ""
+        },
+        "L1-L4_Area": {
+            "description": "ROI area in L1-L4",
+            "display_level": 1,
+            "display_name": "Area_L1-L4",
+            "units": "cm2"
+        },
+        "L1-L4_BMC": {
+            "description": "Bone Mineral Content in L1-L4",
+            "display_level": 1,
+            "display_name": "BMC_L1-L4",
+            "units": "g"
+        },
+        "L1-L4_BMD": {
+            "description": "Bone Mineral Density in L1-L4",
+            "display_level": 1,
+            "display_name": "BMD_L1-L4",
+            "units": "g/cm2"
+        },
+        "L1_Area": {
+            "description": "ROI area in L1",
+            "display_level": 1,
+            "display_name": "Area_L1",
+            "units": "cm2"
+        },
+        "L1_BMC": {
+            "description": "Bone Mineral Content in L1",
+            "display_level": 1,
+            "display_name": "BMC_L1",
+            "units": "g"
+        },
+        "L1_BMD": {
+            "description": "Bone Mineral Density in L1",
+            "display_level": 1,
+            "display_name": "BMD_L1",
+            "units": "g/cm2"
+        },
+        "L2-L4_Area": {
+            "description": "ROI area in L2-L4",
+            "display_level": 1,
+            "display_name": "Area_L2-L4",
+            "units": "cm2"
+        },
+        "L2-L4_BMC": {
+            "description": "Bone Mineral Content in L2-L4",
+            "display_level": 1,
+            "display_name": "BMC_L2-L4",
+            "units": "g"
+        },
+        "L2-L4_BMD": {
+            "description": "Bone Mineral Density in L2-L4",
+            "display_level": 1,
+            "display_name": "BMD_L2-L4",
+            "units": "g/cm2"
+        },
+        "L2_Area": {
+            "description": "ROI area in L2",
+            "display_level": 1,
+            "display_name": "Area_L2",
+            "units": "cm2"
+        },
+        "L2_BMC": {
+            "description": "Bone Mineral Content in L2",
+            "display_level": 1,
+            "display_name": "BMC_L2",
+            "units": "g"
+        },
+        "L2_BMD": {
+            "description": "Bone Mineral Density in L2",
+            "display_level": 1,
+            "display_name": "BMD_L2",
+            "units": "g/cm2"
+        },
+        "L3_Area": {
+            "description": "ROI area in L3",
+            "display_level": 1,
+            "display_name": "Area_L3",
+            "units": "cm2"
+        },
+        "L3_BMC": {
+            "description": "Bone Mineral Content in L3",
+            "display_level": 1,
+            "display_name": "BMC_L3",
+            "units": "g"
+        },
+        "L3_BMD": {
+            "description": "Bone Mineral Density in L3",
+            "display_level": 1,
+            "display_name": "BMD_L3",
+            "units": "g/cm2"
+        },
+        "L4_Area": {
+            "description": "ROI area in L4",
+            "display_level": 1,
+            "display_name": "Area_L4",
+            "units": "cm2"
+        },
+        "L4_BMC": {
+            "description": "Bone Mineral Content in L4",
+            "display_level": 1,
+            "display_name": "BMC_L4",
+            "units": "g"
+        },
+        "L4_BMD": {
+            "description": "Bone Mineral Density in L4",
+            "display_level": 1,
+            "display_name": "BMD_L4",
+            "units": "g/cm2"
+        }
+    }
+}
