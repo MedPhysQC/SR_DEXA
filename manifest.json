@@ -10,7 +10,7 @@
         "name": "SR_DEXA",
         "code": "python",
         "dependencies": [
-            "pydicom",
+            "pydicom"
         ]
     }
 }
