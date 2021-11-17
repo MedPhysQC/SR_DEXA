@@ -1,0 +1,31 @@
+{
+    "actions": {
+        "acqdatetime": {
+            "filters": {},
+            "params": {}
+        },
+        "qc_series": {
+            "filters": {},
+            "params": {
+                "section": "History"
+            }
+        }
+    },
+    "cfgformat": "20180910",
+    "comments": {
+        "author": "Arnold Schilham, UMCU",
+        "creator": "generate_config_json.py version 20180912",
+        "description": "SR/DEXA for Hologic Horizon",
+        "version": "20211117"
+    },
+    "info": {
+        "acqdatetime": {
+            "params": {}
+        },
+        "qc_series": {
+            "params": {
+                "section": "extract only this section (Summary, History) [Summary]"
+            }
+        }
+    }
+}
